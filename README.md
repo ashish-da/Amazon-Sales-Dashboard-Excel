@@ -1,5 +1,6 @@
 # Amazon-Sales-Dashboard-Excel
-<img width="1221" height="593" alt="Amazon sales Dashboard" src="https://github.com/user-attachments/assets/1cc2e115-6962-4f86-becd-f72b9f3eb2d2" />
+<img width="1224" height="597" alt="Amazon sales Dashboard" src="https://github.com/user-attachments/assets/9c269113-8f69-4b97-9c08-d97d2f44f145" />
+
 
 The Amazon Sales Dashboard is an interactive business intelligence dashboard developed entirely in Microsoft Excel to analyze Amazon sales performance across multiple business dimensions. The dashboard transforms raw sales data into meaningful visual insights, enabling users to monitor sales trends, customer activity, product performance, delivery efficiency, and payment preferences.
 
