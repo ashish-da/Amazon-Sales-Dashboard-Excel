@@ -84,3 +84,18 @@ Several brands consistently outperform others, highlighting strong brand demand.
 Credit Card and Debit Card are the most commonly used payment methods, followed by UPI and Amazon Pay.
 The cancellation and return rates remain relatively low, indicating efficient order fulfillment and customer satisfaction.
 
+🚀 Skills Demonstrated
+Data Cleaning
+Data Preparation
+Interactive Dashboard Development
+Business KPI Analysis
+Data Visualization
+Sales Performance Analysis
+Customer Analytics
+Excel Dashboard Design
+Pivot Table Reporting
+Business Intelligence
+💡 Business Value
+
+This dashboard enables businesses to monitor sales performance in real time, identify high-performing products and brands, analyze customer purchasing behavior, evaluate delivery efficiency, and optimize sales strategies through interactive reporting. By consolidating multiple business metrics into a single dashboard, it simplifies decision-making and improves overall reporting efficiency.
+
